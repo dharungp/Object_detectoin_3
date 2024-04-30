@@ -1,0 +1,28 @@
+body{
+    
+    background-size: cover;
+    background-position: center;
+}
+button{
+    border-radius: 20px;
+    background-color:cornsilk;
+    width: 100px;
+    
+    
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#color_black{
+    background-color: black;
+    color: white;
+    float: right;
+border-radius: 20px;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
